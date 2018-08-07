@@ -4,7 +4,10 @@ Example of component usage/implementation using Vue
 
 > Example derived from Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex) made by Maximilian Schwarzmüller
 
-This is my (JS/Vue side) implementation of the second project of this course. CSS styling was used/derived from the course materials
+This is my (JS/Vue side) implementation of the second project of this course.
+
+I tried to use concept of event bus for child-2-child communication so my structure
+is quite different (more complex) apart the one in the course itself.
 
 ## Build Setup
 
